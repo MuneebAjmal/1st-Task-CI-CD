@@ -68,6 +68,7 @@ class _MyAppState extends State<MyApp> {
                     log("Is camera disabled: $res");
                   },
                   child: const Text("Check Camera is disabled ?"),
+
                 ),
               ],
             ),
